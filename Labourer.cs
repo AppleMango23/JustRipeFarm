@@ -13,6 +13,7 @@ namespace _16102019P1S2
         private int age;
         private string gender;
         private string dateAndTime;
+        private string test;
 
         public int Id { get => id; set => id = value; }
         public string Name { get => name; set => name = value; }
